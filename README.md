@@ -1,2 +1,2 @@
 # dojo
-dojo diary
+Check the wiki
